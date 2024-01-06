@@ -1,0 +1,42 @@
+.app{
+    display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-top: 200px;
+      background-color: rgb(133, 177, 177);
+    }
+
+.box{
+    text-align: left;
+    border: black ridge 1px;
+    border-radius: 10px;
+    margin: 3px;
+    width: 20rem;
+    padding-left: 90px;
+    padding-top: 10px;
+    /* flex:none; */
+    
+
+}
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items:flex-start;
+    margin-top: 200px;
+
+
+    
+}
+.srcname{
+    background-color: darkslateblue;
+    height: 50px;
+    width: 250px;
+    
+}
+.flex{
+    margin-top: 5;
+}
+
